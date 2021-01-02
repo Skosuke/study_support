@@ -60,3 +60,8 @@ fabric.properties
 
 # Docker Compose
 .env
+package-lock.json
+package.json
+backend/composer.json
+
+backend/public/mix-manifest.json
